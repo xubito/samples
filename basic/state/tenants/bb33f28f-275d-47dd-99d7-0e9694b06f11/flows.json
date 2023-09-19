@@ -1,0 +1,9 @@
+{
+  "33c07c3c-5426-42a8-9b19-f890b3c67f4a": {
+    "permissions": [{
+      "principalType": "user",
+      "principal": "5b3a1d9a-5b0a-4b0a-9b0a-5b0a4b0a9b0a",
+      "actions": ["SHOW_DEF", "EDIT_DEF", "SHOW_DATA", "EDIT_DATA"]
+    }]
+  }
+}

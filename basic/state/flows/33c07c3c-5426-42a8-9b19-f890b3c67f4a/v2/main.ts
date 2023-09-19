@@ -1,0 +1,1 @@
+log("Hello World from v2!");
